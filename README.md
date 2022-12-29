@@ -1,4 +1,4 @@
-[![MasterHead](https://files.realpython.com/media/python-basics-wide2.f73a9e9bf9b8.jpg)]
+![MasterHead](https://files.realpython.com/media/python-basics-wide2.f73a9e9bf9b8.jpg)
 <h1 align="center">Hi 👋, I'm Sagar Jena</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://themindfullearningspace.com/wp-content/uploads/2021/08/playingwithpython-768x432.jpg">
