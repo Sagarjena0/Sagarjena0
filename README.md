@@ -2,7 +2,7 @@ Here's your updated `README.md` with the requested modifications:
 
 ---
 
-![MasterHead](https://files.realpython.com/media/python-basics-wide2.f73a9e9bf9b8.jpg)
+![MasterHead](https://www.vectorstock.com/royalty-free-vector/system-administrator-concept-set-with-characters-vector-53954061)
 <h1 align="center">Hi 👋, I'm Sagar Jena</h1>
 <h3 align="center">Experienced Open Source Database Administrator | PostgreSQL | MySQL | MariaDB | MongoDB | AWS | Linux | Data Warehousing</h3>
 <img align="right" alt="Database Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTu6XY43m6QY0QLp1s5oFFzb85w6R9YEigIj2Gc1v60gXYS-hrQzHAPKTdfwsLTXVoH0E&usqp=CAU">
