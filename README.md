@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Jena</h1>
 <h3 align="center">Experienced Open Source Database Administrator | PostgreSQL | MySQL | MariaDB | MongoDB | AWS | Linux | Data Warehousing</h3>
-<img align="right" alt="Database Coding" width="400" src="">
-
 
 🔹 Passionate and highly motivated **Database Administrator** with hands-on experience in managing, designing, and implementing robust relational databases.
 
