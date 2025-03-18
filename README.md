@@ -2,7 +2,6 @@
 <h3 align="center">Experienced Open Source Database Administrator | PostgreSQL | MySQL | MariaDB | MongoDB | AWS | Linux | Data Warehousing</h3>
 <img align="right" alt="Database Coding" width="400" src="">
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarjena0&label=Profile%20views&color=0e75b6&style=flat" alt="sagarjena0" /> </p>
 
 🔹 Passionate and highly motivated **Database Administrator** with hands-on experience in managing, designing, and implementing robust relational databases.
 
