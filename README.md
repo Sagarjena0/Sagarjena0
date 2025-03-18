@@ -2,7 +2,7 @@ Here's your updated `README.md` with the requested modifications:
 
 ---
 
-![MasterHead](https://files.realpython.com/media/python-basics-wide2.f73a9e9bf9b8.jpg)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Sagar Jena</h1>
 <h3 align="center">Experienced Open Source Database Administrator | PostgreSQL | MySQL | MariaDB | MongoDB | AWS | Linux | Data Warehousing</h3>
 <img align="right" alt="Database Coding" width="400" src="">
